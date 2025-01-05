@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/875863669709788086/d284f9dd6d4249bba3281c672bc285e3/artifacts
+end_time: 1736059521663
+entry_point_name: ''
+experiment_id: '875863669709788086'
+lifecycle_stage: active
+run_id: d284f9dd6d4249bba3281c672bc285e3
+run_name: gentle-loon-713
+run_uuid: d284f9dd6d4249bba3281c672bc285e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736059519668
+status: 3
+tags: []
+user_id: kyuho
