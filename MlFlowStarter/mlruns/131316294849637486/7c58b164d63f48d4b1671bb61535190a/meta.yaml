@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/131316294849637486/7c58b164d63f48d4b1671bb61535190a/artifacts
+end_time: 1735991218650
+entry_point_name: ''
+experiment_id: '131316294849637486'
+lifecycle_stage: active
+run_id: 7c58b164d63f48d4b1671bb61535190a
+run_name: upbeat-penguin-286
+run_uuid: 7c58b164d63f48d4b1671bb61535190a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735991218631
+status: 3
+tags: []
+user_id: kyuho
