@@ -1,1 +1,8 @@
 */venv
+
+*/*/archive
+
+
+# Ignore MLflow directories
+mlruns/
+mlartifacts/
